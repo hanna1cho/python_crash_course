@@ -1,0 +1,4 @@
+name = input("Hello, welcome. What is your name? ")
+
+if name:
+    
